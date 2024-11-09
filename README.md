@@ -14,8 +14,4 @@
 git clone https://github.com/Keymil0/Password_generator.git
 </pre>
 
-<h2 style="color: #333;">🎨 Styling</h2>
-<pre style="background-color: #f7f7f7; padding: 8px; border-radius: 5px; color: #333;">
-.button { background: #007bff; color: white; padding: 10px; }
-</pre>
 
